@@ -1,0 +1,92 @@
+
+h1 {
+	width: 100%;
+	height: 60px;
+	cursor: pointer;
+	background-color : skyblue;
+	
+}
+h1:hover{
+	font-size: 30px;
+	color: #fff; 
+	background-color : yellow;
+}
+
+
+
+h2 {
+	text-align: center;
+	width: 100%;
+}
+#form {
+	width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	height: 150px;
+}
+body {
+	text-align: center;
+	align-items: center;
+	height: 100%;
+	margin: 0 auto;
+}
+.b {
+	width: 100%;
+	height: 25px;
+}
+.a {
+	display: inline-block;
+	width: 50px;
+	padding: 5px 10px;
+}
+.buttonline {
+	text-align: center;
+}
+td {
+	text-align: center;
+}
+td:first-child {
+	width: 50px;
+}
+td:nth-child(2) {
+	width: 150px;
+}
+td:nth-child(3) {
+	text-align: center;
+}
+td:nth-child(4) {
+	width: 50px;
+}
+td:nth-child(5) {
+	width: 50px;
+}
+td:nth-child(6) {
+	width: 30px;
+}
+td:nth-child(7) {
+	width: 30px;
+}
+th:first-child {
+	width: 50px;
+}
+th:nth-child(2) {
+	width: 400px;
+}
+th:nth-child(3) {
+	width: 200px;
+}
+th:nth-child(4) {
+	width: 40px;
+}
+th:nth-child(5) {
+	width: 40px;
+}
+th:nth-child(6) {
+	width: 20px;
+}
+th:nth-child(7) {
+	width: 20px;
+}
+.tqq {
+	width: 90%;
+}
