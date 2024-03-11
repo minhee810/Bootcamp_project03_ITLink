@@ -1,6 +1,6 @@
 # 3차 미니프로젝트 
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 [![Java 11](https://img.shields.io/badge/Java-11-red?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![Java Web](https://img.shields.io/badge/-Java_Web-007396?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/technologies/javaee.html)
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/technical-resources/articles/java/servletjsp.html)
@@ -32,7 +32,7 @@
 - 모르는 내용들을 학원 동료분들 및 구글링을 하며 어떤식으로 코드를 구현하는것이 조금 더 효율적일지 비교하고 고민하는 시간이 매우 흥미로웠다. 
 - 아쉬웠던 점을 Github을 활용한 협업을 경험해보지 못했다는 점이다. 이번 경험을 통해 버전관리 및 원활한 협업을 위해 git 활용능력이 중요하다는 것을 깨달았다. 
 
-### 💾 프로젝트 상세내용 
+#### 💾 프로젝트 상세내용 
 
 #### 🌱 프로젝트 계획 
 <img width="814" alt="image" src="https://github.com/minhee810/Bootcamp_project03_ITLink/assets/100061907/45092544-e8e8-4b27-8aee-58ab58720bf9">
