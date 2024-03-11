@@ -1,6 +1,6 @@
 # 3차 미니프로젝트 
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 [![Java 11](https://img.shields.io/badge/Java-11-red?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 [![Java Web](https://img.shields.io/badge/-Java_Web-007396?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/java/technologies/javaee.html)
 [![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=Java&logoColor=white)](https://www.oracle.com/technical-resources/articles/java/servletjsp.html)
@@ -10,11 +10,11 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
 
 
-### 📝 프로젝트 소개
+#### 📝 프로젝트 소개
 - 소개 : Java Web 게시판을 구현하는 것을 목표로 HTML, CSS, MySQL, JSP 를 활용해 IT 정보 링크를 공유하는 시스템 구현 
 - 개발 목적 : 게시판 구현 및 협업의 경험
 
-### 🌐 개발 환경
+#### 🌐 개발 환경
   - OS : Window 10
   - Language : Java 11
   - IDE : Eclipse
